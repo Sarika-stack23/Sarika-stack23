@@ -130,7 +130,7 @@ LLM-powered resume scoring — ATS compatibility, skill-gap detection, instant f
 
 ### 🎓 Education
 
-**B.Tech, Computer Science & Engineering** — Jain (Deemed-to-be University), Bengaluru · 2023–2027 · CGPA: 8.89/10
+**B.Tech, Computer Science & Engineering** — Jain (Deemed-to-be University), Bengaluru · 2023–2027 · CGPA: 8.95/10
 
 ---
 
