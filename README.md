@@ -162,10 +162,5 @@ LLM-powered resume scoring — ATS compatibility, skill-gap detection, instant f
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarika-stack23&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarika-stack23&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
 Open to Full-Time & Internship roles — Software Engineering — 2026
 </p>
