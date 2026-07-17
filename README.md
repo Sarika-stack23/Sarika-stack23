@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Sarika 👋</h1>
-<h3 align="center">Full Stack Developer (MERN) · GenAI Engineer · Pre-Final Year, Graduating 2027</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Sarika+%F0%9F%91%8B" alt="Typing SVG" />
+</h1>
+<h3 align="center">Software Engineer · Final Year, Graduating 2027</h3>
 
 <p align="center">
 I ship products, not tutorials — real users, real deployments, built end-to-end.
@@ -21,7 +23,7 @@ I ship products, not tutorials — real users, real deployments, built end-to-en
 
 Building a live **Advanced Mathematics Assistant** at HiDevs — LLaMA 3.3 + Groq + LangChain + RAG + SymPy, with a 118-document knowledge base spanning Class 6–JEE Advanced. Solo build, deployed, in active use.
 
-Alongside that: grinding DSA in Java daily, deepening Python/AI fundamentals, and revising full-stack MERN — targeting product-based SDE and AI/ML roles for 2026.
+Alongside that: grinding DSA in Java daily and deepening core engineering fundamentals — targeting Software Engineer roles at product-based companies for 2026.
 
 ---
 
@@ -31,13 +33,13 @@ Alongside that: grinding DSA in Java daily, deepening Python/AI fundamentals, an
   <img src="./assets/award-ai-agent-builders-2026.png" width="70%"/>
 </p>
 
+<p align="center">
+Meta PyTorch OpenEnv Hackathon × Scaler — Round 1 Qualified (Apr 2026) &nbsp;·&nbsp; Adobe, RIFT & IISc Bengaluru Hackathons
+</p>
+
 ---
 
 ### 💼 Flagship Builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
 
 **🧮 Advanced Mathematics AI Tutor** 🏆
 
@@ -54,15 +56,9 @@ Alongside that: grinding DSA in Java daily, deepening Python/AI fundamentals, an
 <img src="./assets/math-assistant-solving.png" width="100%"/>
 </details>
 
-</td>
-<td width="50%" valign="top">
+<br>
 
-**🩺 Healthcare Booking Platform**
-Full-stack appointment system — doctor & patient flows, medical records, end-to-end TypeScript.
-`React` `Node.js` `Express` `MongoDB`
-
-</td>
-</tr>
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -85,10 +81,13 @@ LLM-powered resume scoring — ATS compatibility, skill-gap detection, instant f
 <summary><b>More projects →</b></summary>
 <br>
 
-- **Skill-Forge** — AI skill-gap analyzer & roadmap generator (Groq LLaMA 3.3, NetworkX DAG, sentence-transformers)
-- **Recommendation System API** — hybrid filtering engine with caching & evaluation metrics (Flask, SQLite)
+- **CoWorkSpace** — real-time co-working space booking platform with JWT role-based access (React, Node.js, MongoDB)
+- **LegacyCare** — end-of-life & funeral pre-planning platform with multi-role access (React, Node.js, MongoDB)
+- **MedAILockr** — healthcare appointment booking platform with conflict-detection engine (TypeScript, React, Node.js)
+- **FinTrack** — personal finance dashboard with real-time analytics (React, TypeScript, Recharts)
+- **Skill-Forge** — AI skill-gap analyzer & roadmap generator (Groq LLaMA 3.3, NetworkX DAG)
 - **Nyaymitra** — voice-based AI legal assistant for regional-language legal guidance
-- **Verdict-Watch**, **CampusIQ**, **FinTrack**, **college-helpdesk-chatbot** — see pinned repos for details
+- **Recommendation System API**, **Verdict-Watch**, **CampusIQ**, **college-helpdesk-chatbot** — see pinned repos for details
 
 </details>
 
@@ -98,6 +97,7 @@ LLM-powered resume scoring — ATS compatibility, skill-gap detection, instant f
 
 | Role | Company | When |
 |---|---|---|
+| MERN Stack Intern | Unified Mentor (Remote) | Apr 2026 – Jul 2026 |
 | GenAI Developer Intern | HiDevs (Just GenAI, Inc.) — US-based startup | Feb 2026 – Present |
 | Python Programming Intern | MotionCut | Jan – Mar 2025 |
 | Machine Learning Intern | 1Stop.ai × IIT Bhubaneswar | Jan – Apr 2024 |
@@ -106,11 +106,12 @@ LLM-powered resume scoring — ATS compatibility, skill-gap detection, instant f
 
 ### 🧰 Stack
 
-**Languages & Core CS** `Java` `Python` `JavaScript` `TypeScript` `DSA` `OOP`
-**Frontend** `React` `Next.js` `HTML/CSS`
-**Backend** `Node.js` `Express` `FastAPI` `MongoDB`
+**Languages & Core CS** `Java` `Python` `JavaScript` `TypeScript` `DSA` `OOP` `OS` `DBMS` `Computer Networks`
+**Frontend** `React` `Next.js` `HTML/CSS` `Tailwind CSS`
+**Backend** `Node.js` `Express` `FastAPI` `REST APIs` `JWT Auth`
+**Databases** `MongoDB Atlas` `SQL` `ChromaDB (Vector DB)`
 **AI / ML / GenAI** `LangChain` `LLaMA 3.3` `Groq` `HuggingFace` `RAG` `NLP` `Scikit-learn`
-**Tools** `Docker` `Streamlit` `Railway` `Git`
+**Tools & Deployment** `Git` `GitHub` `Docker` `Postman` `Streamlit` `Railway` `Render` `Vercel`
 
 ---
 
@@ -127,7 +128,7 @@ LLM-powered resume scoring — ATS compatibility, skill-gap detection, instant f
 
 ### 🎓 Education
 
-**B.Tech, Computer Science & Engineering** — Jain (Deemed-to-be University), Bengaluru · 2023–2027
+**B.Tech, Computer Science & Engineering** — Jain (Deemed-to-be University), Bengaluru · 2023–2027 · CGPA: 8.89/10
 
 ---
 
@@ -164,5 +165,5 @@ LLM-powered resume scoring — ATS compatibility, skill-gap detection, instant f
 </p>
 
 <p align="center">
-Open to Full-Time & Internship roles — Full Stack · Software Engineering · AI/ML — 2026
+Open to Full-Time & Internship roles — Software Engineering — 2026
 </p>
