@@ -21,7 +21,9 @@ I ship products, not tutorials — real users, real deployments, built end-to-en
 
 ### 🚧 Currently
 
-Building a live **Advanced Mathematics Assistant** at HiDevs — LLaMA 3.3 + Groq + LangChain + RAG + SymPy, with a 118-document knowledge base spanning Class 6–JEE Advanced. Solo build, deployed, in active use.
+Building a live **Advanced Mathematics Assistant** — a personal project powered by LLaMA 3.3 + Groq + LangChain + RAG + SymPy, with a 118-document knowledge base spanning Class 6–JEE Advanced. Solo build, deployed, in active use.
+
+Also shipped two full-stack MERN apps as an intern at Unified Mentor — real-time booking systems with auth, role-based access, and live deployment.
 
 Alongside that: grinding DSA in Java daily and deepening core engineering fundamentals — targeting Software Engineer roles at product-based companies for 2026.
 
@@ -119,7 +121,7 @@ LLM-powered resume scoring — ATS compatibility, skill-gap detection, instant f
 
 | Status | Topic |
 |---|---|
-| 🟢 Active | GenAI internship — shipping production GenAI products |
+| 🟢 Active | Software engineering internships — shipping production apps |
 | 🟢 Active | DSA in Java — daily LeetCode |
 | 🔵 Next | System Design |
 | 🔵 Next | Docker & Kubernetes |
